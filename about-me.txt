@@ -1,0 +1,6 @@
+Hello GitHub!
+
+I am learning GitHub.
+This is my first project.
+
+My goal is to understand GitHub completely.
